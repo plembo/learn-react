@@ -13,6 +13,11 @@ React. Final result is up on codepen.io here:
 
 https://codepen.io/gaearon/pen/gWWZgR?editors=0010
 
+Assumes a working knowledge of HTML, CSS, JavaScript and Node.js (to at least
+understand what's happening). It's for _React_, not node.js, beginners. Recommend
+going through the [step-by-step guide](https://reactjs.org/docs/hello-world.html)
+to get a better understanding of how React works under the hood.
+
 ## Sections
 * [Before We Start](https://reactjs.org/tutorial/tutorial.html#before-we-start-the-tutorial)
 * [Setup for the Tutorial](https://reactjs.org/tutorial/tutorial.html#setup-for-the-tutorial)
